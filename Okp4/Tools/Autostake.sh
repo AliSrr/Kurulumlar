@@ -12,7 +12,7 @@ sleep 2
 
 ############ SET PROPERTIES #########
 
-ADDRESS="walletadress"
+ADDRESS="walletssadress"
 VALIDATOR="valoperadress"
 KEY_NAME="walletname"
 PASS="walletpass"
